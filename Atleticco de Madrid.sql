@@ -58,3 +58,6 @@ update Jogadores set telefone = +34999999999 where idJogador = 4;
 update Jogadores set telefone = +34999999999 where idJogador = 5;
 
 alter table Jogadores drop telefone;
+
+
+Olá my friend
